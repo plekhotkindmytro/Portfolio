@@ -14,12 +14,15 @@ body {
     justify-content: center;
 }
 
-
 #cover-caption {
     width: 100%;
 }
 
-
 .form-inline {
     justify-content: center;
+}
+
+.carousel .carousel-item > img {
+    width: 100%;
+    height: 100%;
 }
